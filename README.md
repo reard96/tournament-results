@@ -16,7 +16,7 @@ Python module that uses the PostgreSQL database to keep track of players and mat
 
 More information can be found in [this Getting Started Guide](https://docs.google.com/document/d/16IgOm4XprTaKxAa8w02y028oBECOoB1EI1ReddADEeY/pub?embedded=true).
 
-##File Descriptions
+## File Descriptions
 <code>tournament.sql</code> is used used to set up your database schema.
 
 <code>tournament.py</code> is used to provide access to your database via a library of
